@@ -1,0 +1,123 @@
+body {
+	width: 100vw;
+    height: 33vh;
+    display:flex;
+	flex-wrap: wrap;
+	margin: 0;
+}
+
+img{
+	max-height: 100%;
+	max-width: 100%;
+	margin: auto;
+}
+.text:hover {
+    cursor: pointer;
+}
+.column-1{
+	width: 100vw;
+	height: calc(100vh / 3);
+	max-height: 100%;
+	max-width: 100%;
+	justify-content: center;
+	display: flex;
+	text-align: center;
+	margin: auto;
+}
+.column-2{
+	width: 100vw;
+	height: 33vh;
+	display: flex;
+	flex-wrap: wrap;
+	margin: auto;
+}
+.column-2{
+	position: relative;
+}
+.box {
+	width: calc(100vw / 3);
+	height: calc(100vh / 3);
+	display: flex;
+	flex-wrap: wrap;
+}
+.blue1:hover .text {
+  opacity: 1;
+ transform: translate(350%, 350%);
+  -ms-transform: translate(-50%, -50%);
+}
+.blue2:hover .text {
+  opacity: 1;
+  transform: translate(400%, 350%);
+  -ms-transform: translate(-50%, -50%);
+}
+.blue3:hover .text {
+  opacity: 1;
+  transform: translate(275%, 350%);
+  -ms-transform: translate(-50%, -50%);
+}
+.red1:hover .text {
+  opacity: 1;
+   transform: translate(190%, 375%);
+  -ms-transform: translate(-50%, -50%);
+}
+.red2:hover .text {
+  opacity: 1;
+   transform: translate(375%, 375%);
+  -ms-transform: translate(-50%, -50%);
+}
+.red3:hover .text {
+  opacity: 1;
+  transform: translate(325%, 350%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.text {
+  background-color: #999999;
+  color: ;
+  padding: 12px 12px;
+}
+.text:hover {
+	opacity: 1;
+}
+.text {
+    display: flex;
+	align-items: center;
+	justify-content: center;
+	position: absolute;
+	font-size: 20px;
+	font-weight: bold;
+	font-family: Arial;
+	opacity: 0;
+}
+
+
+.gray {background-color: #373435;}
+.blue1 {background-color: #00008B;}
+.red1 {background-color: #8B0000;}
+.blue2 {background-color: #00008B;}
+.red2 {background-color: #8B0000;}
+.blue3 {background-color: #00008B;}
+.red3 {background-color: #8B0000;}
+
+.messi2 {
+	{content:url(images/puyol.png);}
+}
+
+@media screen and (max-width: 700px) {
+	.column-1{
+		height: calc(100vh / 3);
+		width: 100vw;
+	}
+	.column-2{
+		height: calc(100vh / 3);
+	    width: 100vw;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.box {
+        width: 100vh;
+        height: calc(100vh / 3);
+        flex-wrap: wrap;
+        display: flex;
+	}	
+}
