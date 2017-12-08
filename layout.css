@@ -5,7 +5,9 @@ body {
 	flex-wrap: wrap;
 	margin: 0;
 }
-
+p{
+	color: orange;
+}
 img{
 	max-height: 100%;
 	max-width: 100%;
@@ -42,7 +44,7 @@ img{
 }
 .blue1:hover .text {
   opacity: 1;
- transform: translate(350%, 350%);
+  transform: translate(400%, 350%);
   -ms-transform: translate(-50%, -50%);
 }
 .blue2:hover .text {
@@ -98,6 +100,11 @@ img{
 .red2 {background-color: #8B0000;}
 .blue3 {background-color: #00008B;}
 .red3 {background-color: #8B0000;}
+
+.messi2 {
+	{content:url(images/puyol.png);}
+}
+
 
 .messi2 {
 	{content:url(images/puyol.png);}
