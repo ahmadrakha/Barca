@@ -15,7 +15,7 @@ img:hover{
 }
 img:active {
 	transition: .6s ease-in-out;
-	transform: scale(0.98, 0.98);
+	transform: scale(0.93, 0.93);
 }
 
 .column-1{
