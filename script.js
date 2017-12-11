@@ -1,18 +1,18 @@
-function m(elem){
+function mes(elem){
             document.getElementById("one").innerHTML = "Messi games started 553 Goals 536 Assists 186";
 }
-function r(elem){
+function ron(elem){
             document.getElementById("two").innerHTML = "Position: RW";
 }
-function x(elem){
+function xav(elem){
             document.getElementById("two").innerHTML = "Position: RW";
 }
-function p(elem){
+function puy(elem){
             document.getElementById("two").innerHTML = "Position: RW";
 }
-function s(elem){
+function sua(elem){
             document.getElementById("two").innerHTML = "Position: RW";
 }
-function n(elem){
+function ney(elem){
             document.getElementById("two").innerHTML = "Position: RW";
 }
