@@ -1,6 +1,6 @@
 function resetAll(elem){
 	elem.classList.toggle("gray");
-	document.getElementById("one").classList.toggle("blue1");
+	elem.classList.toggle("blue1");
 	document.getElementById("two").classList.toggle("red1");
 	document.getElementById("three").classList.toggle("blue2");
         document.getElementById("four").classList.toggle("red2");
