@@ -22,15 +22,15 @@ function resetAll(elem){
 	document.getElementById("two").innerHTML = "";
 	document.getElementById("three").innerHTML = "";
 	document.getElementById("four").innerHTML = "";
-            document.getElementById("five").innerHTML = "";
-            document.getElementById("six").innerHTML = "";
+        document.getElementById("five").innerHTML = "";
+        document.getElementById("six").innerHTML = "";
 }
 function resetAll(elem){
 	elem.classList.toggle("gray");
 	document.getElementById("one").classList.toggle("blue1");
 	document.getElementById("two").classList.toggle("red1");
 	document.getElementById("three").classList.toggle("blue2");
-            document.getElementById("one").classList.toggle("red2");
-	document.getElementById("two").classList.toggle("blue3");
-	document.getElementById("three").classList.toggle("red3");
+        document.getElementById("four").classList.toggle("red2");
+	document.getElementById("five").classList.toggle("blue3");
+	document.getElementById("six").classList.toggle("red3");
 }
