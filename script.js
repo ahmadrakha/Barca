@@ -18,7 +18,7 @@ function ney(elem){
 }
 
 function resetAll(elem){
-	document.getElementById("one").classList.toggle("messi");
+	document.getElementById("one").classList.remove("messi");
 	document.getElementById("two").classList.toggle("ronaldinho");
 	document.getElementById("three").classList.toggle("xavi");
         document.getElementById("four").classList.toggle("puyol");
