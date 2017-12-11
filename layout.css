@@ -53,11 +53,9 @@ img:active {
 .blue3 {background-color: #00008B;}
 .red3 {background-color: #8B0000;}
 
-.innerHtml {
-	font-family: Arial;
-}
 
-@media screen and (max-width: 700px) {
+
+@media screen and (max-width: 600px) {
 	.column-1{
 		height: calc(100vh / 3);
 		width: 100vw;
