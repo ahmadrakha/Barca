@@ -1,8 +1,8 @@
 function mes(elem){
-            document.getElementById("one").innerHTML = "Messi games started 553 Goals 536 Assists 186";
+            document.getElementById("one").innerHTML = "Messi games started 553                                Goals 536 Assists 186";
 }
 function ron(elem){
-            document.getElementById("two").innerHTML = "Position: RW";
+            document.getElementById("two").innerHTML = "Position:<br> RW";
 }
 function xav(elem){
             document.getElementById("three").innerHTML = "Position: CM";
