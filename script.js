@@ -1,4 +1,4 @@
-function m(elem){
+function showText(elem){
 	document.getElementById("one").classList.toggle("messi2");
 }
 function r(elem){
