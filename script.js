@@ -5,7 +5,7 @@ function ron(elem){
             document.getElementById("two").innerHTML = "Position: RW";
 }
 function showText(elem){
-            document.getElementById("two").innerHTML = "Position: RW";
+            document.getElementById("two").innerHTML = "Position: CM";
 }
 function puy(elem){
             document.getElementById("two").innerHTML = "Position: RW";
