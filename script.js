@@ -2,7 +2,7 @@ function mes(elem){
             document.getElementById("one").innerHTML = "Messi games started 553                                Goals 536 Assists 186";
 }
 function ron(elem){
-            document.getElementById("two").innerHTML = "Position:<br> RW";
+            document.getElementById("two").innerHTML = "Ronaldinho<br><br>Position: LW/CAM<br><br>Games Started: 243<br><br>Goals: 104<br><br>Assists:44";
 }
 function xav(elem){
             document.getElementById("three").innerHTML = "Position: CM";
