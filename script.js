@@ -1,3 +1,3 @@
 function showText(elem){
-            document.getElementById("one").innerHTML = "Position: RW         Goals: 592";
+            document.getElementById("one").innerHTML = "Position: RW        Goals: 592";
 }
