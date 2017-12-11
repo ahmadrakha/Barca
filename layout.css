@@ -13,6 +13,9 @@ img{
 img:hover{
 	cursor: pointer;
 }
+img:active {
+	transform: scale(0.98, 0.98);
+}
 
 .column-1{
 	width: 100vw;
