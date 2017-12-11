@@ -6,6 +6,6 @@ function showText(elem){
 	document.getElementById("five").classList.toggle("suarez2");
 	document.getElementById("six").classList.toggle("neymar2");
 }
-function showText(elem){
+function ronaldhino(elem){
 	document.getElementById("two").classList.toggle("ronaldhino2");
 }
