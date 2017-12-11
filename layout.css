@@ -10,7 +10,7 @@ img{
 	max-width: 100%;
 	margin: auto;
 }
-img: hover{
+img:hover{
 	cursor: pointer;
 }
 
