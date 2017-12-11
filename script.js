@@ -1,13 +1,3 @@
-function resetAll(elem){
-	elem.classList.toggle("gray");
-	document.getElementById("one").classList.toggle("blue1");
-	document.getElementById("two").classList.toggle("red1");
-	document.getElementById("three").classList.toggle("blue2");
-        document.getElementById("four").classList.toggle("red2");
-	elem.classList.toggle("blue3");
-	document.getElementById("six").classList.toggle("red3");
-}
-
 function mes(elem){
             document.getElementById("one").innerHTML = "MESSI<br><br>Position: Winger<br><br>Games Started: 553<br><br>Goals: 536<br><br>Assists:186";
 }
@@ -27,4 +17,13 @@ function ney(elem){
             document.getElementById("six").innerHTML = "NEYMAR<br><br>Position: Winger<br><br>Games Started: 243<br><br>Goals: 104<br><br>Assists:63";
 }
 
+function resetAll(elem){
+	elem.classList.toggle("gray");
+	document.getElementById("one").classList.toggle("blue1");
+	document.getElementById("two").classList.toggle("red1");
+	document.getElementById("three").classList.toggle("blue2");
+        document.getElementById("four").classList.toggle("red2");
+	elem.classList.toggle("blue3");
+	document.getElementById("six").classList.toggle("red3");
+}
 
