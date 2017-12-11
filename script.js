@@ -1,19 +1,11 @@
 function resetAll(elem){
 	elem.classList.toggle("gray");
-	elem.classList.toggle("blue1");
+	document.getElementById("one").classList.toggle("blue1");
 	document.getElementById("two").classList.toggle("red1");
 	document.getElementById("three").classList.toggle("blue2");
         document.getElementById("four").classList.toggle("red2");
-	document.getElementById("five").classList.toggle("blue3");
+	elem.classList.toggle("gray");
 	document.getElementById("six").classList.toggle("red3");
-}
-function resetAll(elem){
-	document.getElementById("one").innerHTML = "";
-	document.getElementById("two").innerHTML = "";
-	document.getElementById("three").innerHTML = "";
-	document.getElementById("four").innerHTML = "";
-        document.getElementById("five").innerHTML = "";
-        document.getElementById("six").innerHTML = "";
 }
 
 function mes(elem){
