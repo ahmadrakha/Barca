@@ -5,14 +5,14 @@ function ron(elem){
             document.getElementById("two").innerHTML = "Position: RW";
 }
 function xav(elem){
-            document.getElementById("two").innerHTML = "Position: CM";
+            document.getElementById("three").innerHTML = "Position: CM";
 }
 function puy(elem){
-            document.getElementById("two").innerHTML = "Position: RW";
+            document.getElementById("four").innerHTML = "Position: RW";
 }
 function sua(elem){
-            document.getElementById("two").innerHTML = "Position: RW";
+            document.getElementById("five").innerHTML = "Position: RW";
 }
 function ney(elem){
-            document.getElementById("two").innerHTML = "Position: RW";
+            document.getElementById("six").innerHTML = "Position: RW";
 }
