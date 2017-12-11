@@ -33,6 +33,7 @@ img:hover{
 	margin: auto;
 	justify-content: center;
 	text-align: center;
+	align-items: center;
 }
 .column-2{
 	position: relative;
@@ -42,6 +43,8 @@ img:hover{
 	height: calc(100vh / 3);
 	display: flex;
 	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
 }
 
 .gray {background-color: #373435;}
