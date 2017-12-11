@@ -31,6 +31,8 @@ img:hover{
 	display: flex;
 	flex-wrap: wrap;
 	margin: auto;
+	justify-content: center;
+	text-align: center;
 }
 .column-2{
 	position: relative;
