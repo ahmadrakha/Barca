@@ -57,12 +57,6 @@ img:hover{
 .blue3 {background-color: #00008B;}
 .red3 {background-color: #8B0000;}
 
-.blue1 {content:url(images/messi.png);}
-.red1 {content:url(images/ronaldhino.png);}
-.blue2 {content:url(images/xavi.png);}
-.red2 {content:url(images/puyol.png);}
-.blue3 {content:url(images/suarez.png);}
-.red3 {content:url(images/neymar.png);}
 
 
 @media screen and (max-width: 600px) {
