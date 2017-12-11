@@ -4,7 +4,7 @@ function resetAll(elem){
 	document.getElementById("two").classList.toggle("red1");
 	document.getElementById("three").classList.toggle("blue2");
         document.getElementById("four").classList.toggle("red2");
-	elem.classList.toggle("gray");
+	elem.classList.toggle("blue3");
 	document.getElementById("six").classList.toggle("red3");
 }
 
