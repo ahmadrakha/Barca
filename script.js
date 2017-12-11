@@ -1,3 +1,3 @@
 function showText(elem){
-	document.getElementById("one").classList.toggle("messi2");
+	document.getElementById("one").classList.toggle("tan");
 }
