@@ -1,3 +1,3 @@
-function m(elem){
-	document.getElementById("messi").classList.toggle("messi2");
+function showText(elem){
+	document.getElementById("one").classList.toggle("messi2");
 }
