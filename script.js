@@ -4,7 +4,7 @@ function showText(elem){
 function ron(elem){
             document.getElementById("two").innerHTML = "Position: RW";
 }
-function showText(elem){
+function xav(elem){
             document.getElementById("two").innerHTML = "Position: CM";
 }
 function puy(elem){
