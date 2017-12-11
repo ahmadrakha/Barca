@@ -1,4 +1,4 @@
 function showText(elem){
-	elem.innerHTML = "JavaScriptSorcery";
+	document.getElementById("one").innerHTML = "kjsbfpvihprtnv";
 	document.getElementById("one").classList.toggle("messi2");
 }
