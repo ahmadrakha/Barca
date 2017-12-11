@@ -1,4 +1,4 @@
-function showText(elem){
+function mes(elem){
             document.getElementById("one").innerHTML = "Messi games started 553 Goals 536 Assists 186";
 }
 function ron(elem){
