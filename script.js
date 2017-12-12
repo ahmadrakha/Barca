@@ -18,3 +18,7 @@ function ney(elem){
 }
 
 
+function resetAll(elem){
+	elem.classList.toggle("messi");
+	document.getElementById("one").classList.toggle("blue1");
+}
