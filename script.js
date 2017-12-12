@@ -19,6 +19,6 @@ function ney(elem){
 
 function mes(elem){
 	elem.classList.toggle("messi2");
-	document.getElementById("one").innerHTML = "MESSI<br><br>Position: Winger<br><br>Games Started: 553<br><br>Goals: 536<br><br>Assists:186";
+	document.getElementById("one").classList.toggle = ("messi2")
 }
 
