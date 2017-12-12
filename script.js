@@ -17,6 +17,4 @@ function ney(elem){
             document.getElementById("six").innerHTML = "NEYMAR<br><br>Position: Winger<br><br>Games Started: 243<br><br>Goals: 104<br><br>Assists:63";
 }
 
-function mes(elem){
-            document.getElementById("innerHTML").classList.toggle = ("messi2");
-}
+
