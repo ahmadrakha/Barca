@@ -19,5 +19,5 @@ function ney(elem){
 
 function mes(elem){
 	elem.classList.toggle("blue1");
-	document.getElementById("one").classList.toggle("messi");
+	document.getElementById("one").classList.toggle("messi2");
 }
