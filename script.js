@@ -1,4 +1,4 @@
-function resetAll(elem){
+function mes(elem){
 	document.getElementById("one").classList.toggle("messi2");
 	document.getElementById("one").innerHTML = "";
 	document.getElementById("two").classList.remove("ronaldinho2");
