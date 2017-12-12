@@ -1,15 +1,4 @@
 function mes(elem){
-	document.getElementById("one").classList.toggle("messi2");
-	document.getElementById("one").innerHTML = "";
-	document.getElementById("two").classList.remove("ronaldinho2");
-	document.getElementById("two").innerHTML = "";
-	document.getElementById("three").classList.remove("xavi2");
-	document.getElementById("three").innerHTML = "";
-	document.getElementById("four").classList.remove("puyol2");
-	document.getElementById("four").innerHTML = "";
-}
-
-function mes(elem){
             document.getElementById("one").innerHTML = "MESSI<br><br>Position: Winger<br><br>Games Started: 243<br><br>Goals: 104<br><br>Assists:44";
 }
 function ron(elem){
@@ -28,3 +17,6 @@ function ney(elem){
             document.getElementById("six").innerHTML = "NEYMAR<br><br>Position: Winger<br><br>Games Started: 243<br><br>Goals: 104<br><br>Assists:63";
 }
 
+function mes(elem){
+            document.getElementById("one").classList.toggle = ("messi2");
+}
