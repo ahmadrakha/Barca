@@ -18,7 +18,6 @@ function ney(elem){
 }
 
 function mes(elem){
-	elem.classList.toggle("messi2");
-	document.getElementById("one").classList.toggle = ("messi2")
+	document.getElementById("one").classList.toggle("messi2");
+	document.getElementById("one").innerHTML = "";
 }
-
