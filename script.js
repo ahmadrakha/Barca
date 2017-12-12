@@ -18,5 +18,5 @@ function ney(elem){
 }
 
 function mes(elem){
-            document.getElementById("one").classList.toggle = ("messi2");
+            document.getElementById("innerHTML").classList.toggle = ("messi2");
 }
