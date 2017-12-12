@@ -1,3 +1,6 @@
+function mes(elem){
+            document.getElementById("one").innerHTML = "MESSI<br><br>Position: Attacking Midfielder<br><br>Games Started: 243<br><br>Goals: 104<br><br>Assists:44";
+}
 function ron(elem){
             document.getElementById("two").innerHTML = "RONALDINHO<br><br>Position: Attacking Midfielder<br><br>Games Started: 243<br><br>Goals: 104<br><br>Assists:44";
 }
