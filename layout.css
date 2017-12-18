@@ -73,7 +73,7 @@ img:hover{
 	}
 	.container-2{
 		height: calc(100vh / 3);
-	    width: 100vw;
+	    width: 50vw;
 		display: flex;
 		flex-wrap: wrap;
 	}
