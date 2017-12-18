@@ -73,12 +73,12 @@ img:hover{
 	}
 	.container-2{
 		height: calc(100vh / 3);
-	    width: 50vw;
+	    width: 100vw;
 		display: flex;
 		flex-wrap: wrap;
 	}
 	.box {
-        width: 100vh;
+        width: 50vw;
         height: calc(100vh / 3);
         flex-wrap: wrap;
         display: flex;
@@ -99,7 +99,7 @@ img:hover{
 		flex-wrap: wrap;
 	}
 	.box {
-        width: 100vh;
+        width: 100vw;
         height: calc(100vh / 3);
         flex-wrap: wrap;
         display: flex;
