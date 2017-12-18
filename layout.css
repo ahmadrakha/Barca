@@ -36,6 +36,7 @@ img:hover{
 	justify-content: center;
 	text-align: center;
 	align-items: center;
+	font-color: ##8B0000;
 }
 .container-2{
 	position: relative;
@@ -47,6 +48,7 @@ img:hover{
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
+	font-color: ##8B0000;
 }
 
 .gray {background-color: #373435;}
