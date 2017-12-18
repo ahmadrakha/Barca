@@ -66,22 +66,22 @@ img:hover{
 .neymar {content:url(images/neymar.png);}
 
 
-@media screen and (max-width: 1050px) {
+@media screen and (max-width: 600px) {
 	.container-1{
 		height: calc(100vh / 3);
 		width: 100vw;
 	}
 	.container-2{
 		height: calc(100vh / 3);
-	    width: calc(100vw / 2);
+	    width: 100vw;
 		display: flex;
 		flex-wrap: wrap;
 	}
 	.box {
-        width: calc(100vw / 2);
+        width: 100vh;
         height: calc(100vh / 3);
-	display: flex;
         flex-wrap: wrap;
+        display: flex;
 	}	
 }
 
