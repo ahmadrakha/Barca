@@ -19,4 +19,5 @@ function ney(elem){
 
 function reset(elem){
             document.getElementById("one").innerHTML = "";
+            document.getElementById("one").classList.toggle = ("messi2");
 }
