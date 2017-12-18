@@ -75,6 +75,7 @@ img:hover{
 		height: calc(100vh / 3);
 	    width: calc(100vw / 2);
 		display: flex;
+		flex-wrap: wrap;
 	}
 	.box {
         width: calc(100vw / 2);
