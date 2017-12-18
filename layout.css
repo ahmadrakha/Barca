@@ -83,6 +83,13 @@ img:hover{
         flex-wrap: wrap;
         display: flex;
 	}	
+.blue1 {background-color: #00008B;}
+.red1 {background-color: #00008B;}
+.blue2 {background-color: #00008B;}
+.red2 {background-color: #8B0000;}
+.blue3 {background-color: #8B0000;}
+.red3 {background-color: #8B0000;}
+
 }
 
 
