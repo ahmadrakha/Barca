@@ -18,5 +18,5 @@ function ney(elem){
 }
 
 function reset(elem){
-            document.getElementById("one").classList.toggle = ("messi.png");
+            document.getElementById("one").classList.toggle = ("messi2.png");
 }
